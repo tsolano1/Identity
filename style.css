@@ -1,0 +1,9 @@
+/* background image */
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHFThhaA0Hjp-v1WMvtoxv4Xa1vghYrF_aI82Po3_3P3C3Xz4:https://play-lh.googleusercontent.com/DFzCyKbqxCN8Yl1DKvOaUFQCKsueRLqbQQSi03_ba4CsXn-H2oCjTNntsOQQHKoLbQ%3Dw526-h296-rw&s"); /* The image used */
+   
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    
+}
